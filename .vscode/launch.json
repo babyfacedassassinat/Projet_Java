@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CalculateurAdresseReseau",
+            "request": "launch",
+            "mainClass": "CalculateurAdresseReseau",
+            "projectName": "Projet_Java_MamadouIssaDiedhiou-main_45638e43"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CalculateurReseauApp",
+            "request": "launch",
+            "mainClass": "CalculateurReseauApp",
+            "projectName": "CalculateurAdresseReseau_e3ca9ddd"
+        },
+        {
+            "type": "java",
+            "name": "CalculateurReseauSwingApp",
+            "request": "launch",
+            "mainClass": "CalculateurReseauSwingApp",
+            "projectName": "CalculateurAdresseReseau_e3ca9ddd"
+        },
+        {
+            "type": "java",
+            "name": "TestHistoriqueCalculs",
+            "request": "launch",
+            "mainClass": "TestHistoriqueCalculs",
+            "projectName": "CalculateurAdresseReseau_e3ca9ddd"
+        }
+    ]
+}
